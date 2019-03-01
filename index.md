@@ -5,18 +5,9 @@ layout: page
 #feature_text: |
   ## Sushmita V Gopalan
 ---
-<table border="0">
- <tr>
-    <td><b style="font-size:30px">Title</b></td>
-    <td><b style="font-size:30px">Title 2</b></td>
- </tr>
- <tr>
-    <td> I'm a data scientist at the Northwestern Neighbourhood and Network Initiative at Northwestern University. I study the ways in which crime spreads through spatial and social networks. I'm from Hyderabad, India and I currently live and work in Chicago.
+I'm a data scientist at the Northwestern Neighbourhood and Network Initiative at Northwestern University. I study the ways in which crime spreads through spatial and social networks. I'm from Hyderabad, India and I currently live and work in Chicago.
 
  My academic training is in Economics and Computational Social Science. I'm interested in the application of predictive analytics to crime and public health. I love reading, cooking,  all kinds of television, Indian music and flowers! 🌸
 
-</td>
-    <td><img src="sush.jpg" alt="Italian Trulli">
-</td>
- </tr>
-</table>
+<img align="right" width="200" height="400" src="sush.jpg">
+
