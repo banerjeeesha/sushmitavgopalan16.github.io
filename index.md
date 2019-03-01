@@ -18,7 +18,8 @@ layout: page
 <div class = "col-md-6">
 <br><br>
  
- ![sush](sush.jpg)
+<img src="sush.jpg" alt="Italian Trulli">
+
 
 </div>
 
