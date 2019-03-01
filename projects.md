@@ -3,8 +3,9 @@ layout: page
 title: ''
 ---
 
-##### Predicting Infant Mortality : Minimizing False Negatives &nbsp;
-
+##### Predicting Infant Mortality : Minimizing False Negatives 
+&nbsp;
+&nbsp;
 <div style="text-align:justify">&nbsp;&nbsp;Early experiments suggest that targeting public health resources on high-risk pregnant mothers can help reduce the risk of infant death in cost-effective ways. For my M.A. thesis at the University of Chicago, I applied machine learning to train a classifier to identify pregnant mothers who are at high risk for infant death, without requiring the input of a medical professional. The sparseness of observations about children who have died makes it difficult for a classifier to learn to identify them. Since it could be dangerous to misclassify at-risk children as being healthy, I focused on minimizing false negatives. I tested different resampling methods to address the class imbalance problem and found that removing Tomek links before using a random forest classifier helps reduce the false negative rate from 74% to 7%, while keeping the false positive rate at 6%. </div>
 
 ##### Class Imbalance in Machine Learning &nbsp;
