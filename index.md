@@ -16,6 +16,10 @@ layout: page
 &nbsp;
 &nbsp;  
 &nbsp;
- My academic training is in Economics and Computational Social Science. I'm interested in the application of predictive analytics to crime and public health. I love reading, cooking,  all kinds of television, Indian music and flowers! 🌸
+&nbsp;  
+&nbsp;&nbsp;  
+&nbsp;
+
+My academic training is in Economics and Computational Social Science. I'm interested in the application of predictive analytics to crime and public health. I love reading, cooking,  all kinds of television, Indian music and flowers! 🌸
 
 
