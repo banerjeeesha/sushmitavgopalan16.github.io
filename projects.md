@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Projects
+title: ''
 ---
 
 #### Predicting Infant Mortality : Minimizing False Negatives 
