@@ -6,7 +6,8 @@ layout: page
   ## Sushmita V Gopalan
 ---
 
-<img align="right"  width="350" height="400" src="sush.jpg">I'm a data scientist at the Northwestern Neighbourhood and Network Initiative at Northwestern University. I study the ways in which crime spreads through spatial and social networks. I'm from Hyderabad, India and I currently live and work in Chicago.
+<img align="right"  width="350" height="400" src="sush.jpg">&nbsp;  
+&nbsp;I'm a data scientist at the Northwestern Neighbourhood and Network Initiative at Northwestern University. I study the ways in which crime spreads through spatial and social networks. I'm from Hyderabad, India and I currently live and work in Chicago.
 
 
 
