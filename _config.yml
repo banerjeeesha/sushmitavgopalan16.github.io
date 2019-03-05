@@ -32,8 +32,8 @@ paginate_path: blog/page:num
 
 # Header nav
 navigation_header:
-  Home: /
-  Projects: /projects/
+  home: /
+  projects: /projects/
 
 # Footer nav
 navigation_footer:
