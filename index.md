@@ -16,14 +16,16 @@ layout: page
 &nbsp;  
 &nbsp;
 &nbsp;  
+&nbsp;  
+&nbsp;  
+
 
 ## Education 
 
+#### M.A. Computational Social Science
+Univeristy of Chicago (2018)
 
-### M.A. Computational Social Science
-Univeristy of Chicago
-
-### B.A./M.A. Economics
-Indian Institute of Technology Madras
+#### B.A./M.A. Economics
+Indian Institute of Technology Madras (2014)
 
 
