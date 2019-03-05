@@ -17,6 +17,13 @@ layout: page
 &nbsp;
 &nbsp;  
 
+## Education 
 
+
+### M.A. Computational Social Science
+Univeristy of Chicago
+
+### B.A./M.A. Economics
+Indian Institute of Technology Madras
 
 
