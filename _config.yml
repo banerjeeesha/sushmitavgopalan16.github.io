@@ -33,7 +33,7 @@ paginate_path: blog/page:num
 # Header nav
 navigation_header:
   home: /
-  cv: / cv
+  cv: /cv/
   projects: /projects/
 
 # Footer nav
