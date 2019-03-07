@@ -7,7 +7,7 @@ title: ''
 &nbsp;
 &nbsp;
 
-#### Education
+##### Education
 
 * ###### M.A. Computational Social Science 
 University of Chicago, 2018
@@ -19,7 +19,7 @@ Indian Institute of Technology Madras, 2014
 &nbsp;
 &nbsp;
 
-#### Experience
+##### Experience
 
 * ###### Research Data Scientist, N3 Initiative 
 * ###### Graduate Teaching Assistant, University of Chicago
