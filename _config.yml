@@ -33,16 +33,15 @@ paginate_path: blog/page:num
 # Header nav
 navigation_header:
   home: /
-  #cv: /cv/
-  projects: /projects/
   blog: /blog/
+  projects: /projects/
 
 # Footer nav
 navigation_footer:
   Back to top: "#top"
 
 # Collections
-collections:
+blog:
   posts:
     title: Posts
     output: true
