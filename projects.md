@@ -14,12 +14,12 @@ title: ''
 &nbsp;
 ##### Class Imbalance in Machine Learning
 &nbsp;
-<div style="text-align:justify" font size = '2'>I wrote a Shiny application to visually illustrate some ways to resample data to address class imbalance problems in machine learning. I love the storyboard format because it allows the reader to progress at their own pace and go back and forth if they need to. Each panel in the storyboard offers one method of resampling, graphs that compare the original and resampled data and a short explanation. You can look at it here. (link - https://sushmitavgopalan.shinyapps.io/storyboard/)</div>
+<div style="text-align:justify" font size = '2'>I wrote a Shiny application to visually illustrate some ways to resample data to address class imbalance problems in machine learning. I love the storyboard format because it allows the reader to progress at their own pace and go back and forth if they need to. Each panel in the storyboard offers one method of resampling, graphs that compare the original and resampled data and a short explanation. You can look at it [here](https://sushmitavgopalan.shinyapps.io/storyboard/). </div>
 &nbsp;
 &nbsp;
 ##### Very Fun Tweets
 &nbsp;
-<div style="text-align:justify" font size = '2'>Very Fun Tweets is a Django application that I wrote with my friends Haylee and Chelsea. Our app takes a hashtag, plots the frequency of its usage over a period of two months, identifies spikes, and uses keywords in related tweets to scrape Google News and find out what newsworthy event could have caused the spike. For instance, #womensmarch spiked on International Women’s Day in 2016 (http://time.com/4695030/international-womens-day-womens-march-strike/). Try it out at veryfuntweets.com. </div>
+<div style="text-align:justify" font size = '2'>Very Fun Tweets is a Django application that I wrote with my friends Haylee and Chelsea. Our app takes a hashtag, plots the frequency of its usage over a period of two months, identifies spikes, and uses keywords in related tweets to scrape Google News and find out what newsworthy event could have caused the spike. For instance, #womensmarch spiked on International Women’s Day [in 2016](http://time.com/4695030/international-womens-day-womens-march-strike/). Try it out [here](veryfuntweets.com). </div>
 &nbsp;
 &nbsp;
 ##### Judge a Magazine by its Cover (Story)
