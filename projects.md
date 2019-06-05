@@ -11,15 +11,12 @@ title: ''
 &nbsp;
 
 Early experiments suggest that targeting public health resources on high-risk pregnant mothers can help reduce the risk of infant death in cost-effective ways. For my M.A. thesis at the University of Chicago, I applied machine learning to train a classifier to identify pregnant mothers who are at high risk for infant death, without requiring the input of a medical professional. The sparseness of observations about children who have died makes it difficult for a classifier to learn to identify them. Since it could be dangerous to misclassify at-risk children as being healthy, I focused on minimizing false negatives. I tested different resampling methods to address the class imbalance problem and found that removing Tomek links before using a random forest classifier helps reduce the false negative rate from 74% to 7%, while keeping the false positive rate at 6%. 
- 
-
 &nbsp;
 &nbsp;
 ##### Class Imbalance in Machine Learning
 &nbsp;
 
 I wrote a Shiny application to visually illustrate some ways to resample data to address class imbalance problems in machine learning. I love the storyboard format because it allows the reader to progress at their own pace and go back and forth if they need to. Each panel in the storyboard offers one method of resampling, graphs that compare the original and resampled data and a short explanation. You can look at it [here](https://sushmitavgopalan.shinyapps.io/storyboard/). 
-
 &nbsp;
 &nbsp;
 ##### Very Fun Tweets
